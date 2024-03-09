@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392145390094",
+    "project_id": "groupchatapp-57311",
+    "storage_bucket": "groupchatapp-57311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392145390094:android:caedfcbf23f8e7cf84ca5f",
+        "android_client_info": {
+          "package_name": "com.example.groupiee_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARNhwUPG3czfzevy93QFT0rQ8oSHVzJ34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
